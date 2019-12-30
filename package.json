@@ -1,0 +1,26 @@
+{
+  "name": "liri-node",
+  "version": "1.0.0",
+  "description": "Run basic commands to find bands in town, info from songs, or info on a movie/series",
+  "main": "liri.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pounat/liri-node-app.git"
+  },
+  "keywords": [
+    "liri",
+    "node",
+    "spotify",
+    "omdb",
+    "bands-in-town"
+  ],
+  "author": "Nathan Poulson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pounat/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/pounat/liri-node-app#readme"
+}
